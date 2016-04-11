@@ -1,0 +1,10 @@
+upc\gmt\model\Reporte.class
+upc\gmt\servicios\ServicioController.class
+upc\gmt\servicios\Aplicacion.class
+upc\gmt\model\Interrupcion.class
+upc\gmt\model\Usuario.class
+upc\gmt\model\DetalleAtencion.class
+upc\gmt\model\Cuadrilla.class
+upc\gmt\model\Atencion.class
+upc\gmt\dao\BaseDAO.class
+upc\gmt\dao\InterrupcionDAO.class
